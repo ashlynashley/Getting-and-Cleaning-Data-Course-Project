@@ -9,9 +9,6 @@ The resulting data set includes 180 observations and 69 variables.
 
 ## Measurements
 
-* subject
-* activity
-* number
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
 * tBodyAcc-mean()-Z
